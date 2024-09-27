@@ -1,7 +1,7 @@
 P
 
 {
-    color:rgb(40, 89, 109);
+    color:rgb(213, 225, 230);
     font-size:large;
     font-weight:bold;
 }
@@ -16,4 +16,9 @@ div
     max-width: 700px;
 }
 
+#tytul
+{
+font-size: xx-large;
+
+}
 
