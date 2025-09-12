@@ -8,12 +8,13 @@ P
 
 body
 {
-    background-color: rgb(21, 34, 49);
+    background-color: rgb(156, 190, 230);
 }
 
 div
 {
     max-width: 700px;
+    margin: auto;
 }
 
 #tytul
