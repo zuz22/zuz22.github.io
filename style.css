@@ -2,13 +2,15 @@ P
 
 {
     color:rgb(213, 225, 230);
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     font-size:large;
     font-weight:bold;
+    text-align: center;
 }
 
 body
 {
-    background-color: rgb(156, 190, 230);
+    background-color: rgb(82, 105, 18);
 }
 
 div
